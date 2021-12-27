@@ -19,4 +19,4 @@ const styles = StyleSheet.create({
   },
 });
 
-{/** My name is Rahul */}
+{/** My name is ARya*/}
