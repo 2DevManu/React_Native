@@ -9,10 +9,7 @@ export default function App() {
     </View>
   );
 }
-{/*my name id antony*}
-{/*my name id antony*}
-{/*my name id antony*}
-{/*my name id antony*}
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
